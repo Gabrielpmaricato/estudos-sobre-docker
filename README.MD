@@ -56,5 +56,3 @@ Isolamento de dependências.
 Facilita o deploy e a escalabilidade.
 
 Integra bem com orquestradores como Kubernetes.
-
-Se quiser, posso te mostrar um exemplo completo de como usar Docker com Node.js + Express + LocalStack + DynamoDB (como no seu projeto atual). Quer que eu monte isso pra você?
